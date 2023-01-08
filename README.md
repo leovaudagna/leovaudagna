@@ -1,6 +1,5 @@
 - 👋 Buenas! Soy Leonardo Vaudagna. En proceso de ser un Desarrollador Web Full Stack Jr.
-- 👀 Música, Películas, Diseño Web y algo de Fútbol.
-- 🌱 Actualmente perfeccionándome en Python.
+- 🌱 Actualmente perfeccionándome en JAVA y algunos fundamentos de Python.
 - 📫 Me pueden contactar por Facebook o Instagram.
 
 <!---
